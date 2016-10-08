@@ -1,0 +1,4 @@
+module.exports = {
+    nodeport: '3000',
+    slacktoken: ''
+};

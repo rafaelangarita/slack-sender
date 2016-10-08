@@ -1,0 +1,8 @@
+*.conf.js
+conf.js
+.DS_Store
+node_modules
+*.jar
+*.class
+*local*
+*.log

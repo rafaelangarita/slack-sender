@@ -1,0 +1,12 @@
+{
+    "name": "slack-test",
+    "description": "Testing sending messages to slack",
+    "version": "0.0.1",
+    "dependencies": {
+        "underscore":"1.8.x",
+        "express": "4.14.x",
+        "morgan": "1.7.x",
+        "body-parser": "1.15.x",
+        "@slack/client": "3.6.x"
+    }
+}
