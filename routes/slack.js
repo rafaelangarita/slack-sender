@@ -35,4 +35,5 @@ exports.sendMessage = function(req, res) {
             }
         );
     });
+    res.send('OK');
 }
