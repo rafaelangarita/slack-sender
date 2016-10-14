@@ -24,7 +24,7 @@ exports.sendMessage = function(req, res) {
         } else {
             console.log('Team Info:', info);
         }
-
+	console.log('posting:', req.body);
         web.chat.postMessage(
             req.body.channel,
             req.body.message, {

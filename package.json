@@ -1,5 +1,5 @@
 {
-    "name": "slack-test",
+    "name": "service-slack-sender",
     "description": "Testing sending messages to slack",
     "version": "0.0.1",
     "dependencies": {
